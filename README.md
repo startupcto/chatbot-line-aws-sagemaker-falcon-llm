@@ -1,6 +1,8 @@
-# Building GenAI Chatbot with LINE & LLM with AWS SageMaker Falcon Model
+# Building GenAI Chatbot with LINE & AWS SageMaker (Falcon LLM)
 
 > :warning: **Make sure that `ml.g5.2xlarge` instance is available in the AWS region that you are using.**
+
+
 
 ## Demo
 
