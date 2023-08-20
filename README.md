@@ -25,6 +25,9 @@ Credit: [Introduction to SageMaker JumpStart - Text Generation with Falcon model
 ### Lambda
 
 ```sh
+# Prepare publish.zip
+pushd lambda && zip -r publish.zip . && mv publish.zip .. && popd
+
 # Config
 aws lambda update-function-configuration \
     --region=us-west-2 \
