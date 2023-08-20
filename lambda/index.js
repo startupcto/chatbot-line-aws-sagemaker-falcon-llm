@@ -42,7 +42,7 @@ exports.handler = async (event, context) => {
     result.data = resultString
   } catch (error) {
     result.error = error.message;
-    answer = "Sorry, I can't answer right now. Please try again."
+    answer = "Sorry, I can't answer right now. I'll catch you later."
   }
   await client.replyMessage(
     eventBody.events[0].replyToken, {
