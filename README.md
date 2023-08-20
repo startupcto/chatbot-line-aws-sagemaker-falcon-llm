@@ -1,9 +1,8 @@
 # Building GenAI Chatbot with LINE & AWS SageMaker Jumpstart (Falcon LLM)
 
+Read step-by-step guide to [Building GenAI Chatbot with LINE & AWS SageMaker Jumpstart (Falcon LLM)](https://medium.com/startupctopage/building-genai-chatbot-with-line-aws-sagemaker-23657e592e53)
+
 ![Screenshot](screenshot.gif "Screenshot")
-
-Step-by-step guide to [Building GenAI Chatbot with LINE & AWS SageMaker Jumpstart (Falcon LLM)](https://medium.com/startupctopage/building-genai-chatbot-with-line-aws-sagemaker-23657e592e53)
-
 
 ## System Architecture
 
