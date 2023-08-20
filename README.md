@@ -2,6 +2,7 @@
 
 > :warning: **Make sure that `ml.g5.2xlarge` instance is available in the AWS region that you are using.**
 
+See: Step-by-step guide to [Building GenAI Chatbot with LINE & AWS SageMaker Jumpstart (Falcon LLM)](https://medium.com/startupctopage/building-genai-chatbot-with-line-aws-sagemaker-23657e592e53)
 
 ## Demo
 
